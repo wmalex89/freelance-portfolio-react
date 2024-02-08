@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/freelance-portfolio-react/static/css/main.c0f58eff.css",
+    "main.js": "/freelance-portfolio-react/static/js/main.e83cc269.js",
+    "static/media/04-big.jpg": "/freelance-portfolio-react/static/media/04-big.028f6ae093f4050e2063.jpg",
+    "static/media/01-big.jpg": "/freelance-portfolio-react/static/media/01-big.ecb03349664096d93b17.jpg",
+    "static/media/03-big.jpg": "/freelance-portfolio-react/static/media/03-big.2721628accca08623979.jpg",
+    "static/media/05-big.jpg": "/freelance-portfolio-react/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
+    "static/media/02-big.jpg": "/freelance-portfolio-react/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/06-big.jpg": "/freelance-portfolio-react/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/04.jpg": "/freelance-portfolio-react/static/media/04.fd899e8b118a1cee4c69.jpg",
+    "static/media/01.jpg": "/freelance-portfolio-react/static/media/01.7da2c7eebb2a8e1dc1a4.jpg",
+    "static/media/03.jpg": "/freelance-portfolio-react/static/media/03.88c442c992a574dce076.jpg",
+    "static/media/05.jpg": "/freelance-portfolio-react/static/media/05.6f83497b66d50f0f92a3.jpg",
+    "static/media/06.jpg": "/freelance-portfolio-react/static/media/06.809e595005513da078eb.jpg",
+    "static/media/02.jpg": "/freelance-portfolio-react/static/media/02.416a398eb080f98f1e8c.jpg",
+    "static/media/header-bg.png": "/freelance-portfolio-react/static/media/header-bg.3d9d4fd7d8bcca6089a6.png",
+    "static/media/sun.svg": "/freelance-portfolio-react/static/media/sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/Moon.svg": "/freelance-portfolio-react/static/media/Moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "static/media/gitHub.svg": "/freelance-portfolio-react/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/freelance-portfolio-react/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/freelance-portfolio-react/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/freelance-portfolio-react/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/freelance-portfolio-react/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/freelance-portfolio-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/freelance-portfolio-react/index.html",
+    "main.c0f58eff.css.map": "/freelance-portfolio-react/static/css/main.c0f58eff.css.map",
+    "main.e83cc269.js.map": "/freelance-portfolio-react/static/js/main.e83cc269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f58eff.css",
+    "static/js/main.e83cc269.js"
+  ]
+}
